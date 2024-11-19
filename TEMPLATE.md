@@ -1,18 +1,18 @@
-# Full Name 
+# Jomin Binny
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm Jomin Binny , currently a second year student CSE student of College of Engineering,Vadakara. I have completed my !2th from KV . It was the time which had my keen interest on python programming language. I have built some mini projects in python . I have also studied Sql for managing databases which i had used along with python for porjects. I completed learning the basics of HTML and CSS using youtube tutorials. Also i had my experience as an intern from where i learned about django , flask and Mongo DB . I have my interests in Robotics and IOT. Also I am also trying to learn into the MERN stack development.
 
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name           | Description                                                                      | Hosted Link                              | Repo Link                                                      |
+|----------------|----------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| Stopwatch      | Built a stopwatch in html and css during my intern period in Prodigy Infotech    | [Hosted Link 1](https://example.com)     | https://github.com/Jomin8186/PRODIGY_WD_02.git                 |
+| Landing Screen | Built a landing page in html and css during my intern period in Prodigy Infotech | [Hosted Link 2](https://example.com)     | https://github.com/Jomin8186/PRODIGY_WD_01.git                 |
 
 #### Leadership and Influence:
 
