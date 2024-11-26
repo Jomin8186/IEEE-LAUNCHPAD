@@ -11,8 +11,8 @@
 
 | Name           | Description                                                                      | Hosted Link                              | Repo Link                                                      |
 |----------------|----------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| Stopwatch      | Built a stopwatch in html and css during my intern period in Prodigy Infotech    | [Hosted Link 1](https://example.com)     | https://github.com/Jomin8186/PRODIGY_WD_02.git                 |
-| Landing Screen | Built a landing page in html and css during my intern period in Prodigy Infotech | [Hosted Link 2](https://example.com)     | https://github.com/Jomin8186/PRODIGY_WD_01.git                 |
+| Stopwatch      | Built a stopwatch in html and css during my intern period in Prodigy Infotech    | [Hosted Link 1](https://example.com)     | [Repo Link 1](https://github.com/Jomin8186/PRODIGY_WD_02.git)  |
+| Landing Screen | Built a landing page in html and css during my intern period in Prodigy Infotech | [Hosted Link 2](https://example.com)     | [Repo Link 2](https://github.com/Jomin8186/PRODIGY_WD_01.git)  |
 
 #### Leadership and Influence:
 
